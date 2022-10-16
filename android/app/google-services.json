@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376238925135",
+    "project_id": "fir-emailandpass",
+    "storage_bucket": "fir-emailandpass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376238925135:android:66fad5b5a085b5bd7a913a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_email"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376238925135-i3n655c6aumfe0vh0crrepfu895u1e5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb31tFDeyIokS7ZS_qI8L0AtxiG98rs8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376238925135-i3n655c6aumfe0vh0crrepfu895u1e5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
